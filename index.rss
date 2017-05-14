@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://barrapunto.com/">
+<title>Barrapunto</title>
+<link>http://barrapunto.com/</link>
+<description>La informaci&#243;n que te interesa</description>
+<dc:language>EN</dc:language>
+<dc:rights>Copyleft 1999-2006, Barrapunto</dc:rights>
+<dc:date>2017-05-13T15:40:13+00:00</dc:date>
+<dc:publisher>Barrapunto S.L.</dc:publisher>
+<dc:creator>webmaster@barrapunto.com</dc:creator>
+<dc:subject>Tecnolog&#237;a, Software libre</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/05/11/2021239&amp;from=rss" />
+  <rdf:li rdf:resource="http://debian.barrapunto.com/article.pl?sid=17/05/04/2248256&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/05/03/1118200&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/04/02/2227211&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/04/01/1427230&amp;from=rss" />
+  <rdf:li rdf:resource="http://softlibre.barrapunto.com/article.pl?sid=17/03/12/1017200&amp;from=rss" />
+  <rdf:li rdf:resource="http://barrapunto.com/article.pl?sid=17/03/03/0950231&amp;from=rss" />
+  <rdf:li rdf:resource="http://ciberderechos.barrapunto.com/article.pl?sid=17/02/17/1810239&amp;from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://barrapunto.com/images/topics/topicbarrapunto.png" />
+<textinput rdf:resource="http://barrapunto.com/search.pl" />
+</channel>
+
+<image rdf:about="http://barrapunto.com/images/topics/topicbarrapunto.png">
+<title>Barrapunto</title>
+<url>http://barrapunto.com/images/topics/topicbarrapunto.png</url>
+<link>http://barrapunto.com/</link>
+</image>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/05/11/2021239&amp;from=rss">
+<title>Obijuan, primer espa&#241;ol galardonado en los O'Reilly Open Source Awards</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/05/11/2021239&amp;from=rss</link>
+<description>En lainformacion.com cuentan que El espa&amp;#241;ol Juan Gonz&amp;#225;lez, galardonado en los O'Reilly Open Source Award: &amp;#171;Juan Gonz&amp;#225;lez, doctor en Inform&amp;#225;tica y Telecomunicaciones, acaba de convertirses en el primer espa&amp;#241;ol reconocido por los prestigiosos O'Reilly Open Source Award, un galard&amp;#243;n que se concede a personas que hayan destacado por su dedicaci&amp;#243;n, innovaci&amp;#243;n, liderazgo y contribuci&amp;#243;n al software libre. [...] El ingeniero madrile&amp;#241;o es uno de los pioneros de la rob&amp;#243;tica educativa 'open source' en Espa&amp;#241;a y tambi&amp;#233;n se le atribuye ser el fundador de la comunidad Clone Wars, la escuela y factor&amp;#237;a virtual de impresoras 3D m&amp;#225;s popular de Espa&amp;#241;a y Latinoam&amp;#233;rica&amp;#187;. Juan es popularmente conocido por su alias Obijuan. Actualmente est&amp;#225; involucrado en el desarrollo de proyectos libres para FPGAs, en el proyecto FPGA Wars.</description>
+<dc:creator>rvr</dc:creator>
+<dc:date>2017-05-11T20:14:00+00:00</dc:date>
+<dc:subject>gnulinux</dc:subject>
+<slash:department>use-the-source-luke</slash:department>
+<slash:section>softlibre</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,2,1,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://debian.barrapunto.com/article.pl?sid=17/05/04/2248256&amp;from=rss">
+<title>Emmabuntus DE: Linux con Lilo y UEFI incluidos</title>
+<link>http://debian.barrapunto.com/article.pl?sid=17/05/04/2248256&amp;from=rss</link>
+<description>Patrick_Emmabuntus nos cuenta: &amp;#171;Esta distribuci&amp;#243;n ha sido dise&amp;#241;ada para facilitar el reacondicionamiento de los ordenadores dados a las asociaciones humanitarias, en particular a las comunidades Ema&amp;#250;s (de aqu&amp;#237; procede el nombre), y permitir prolongar la vida &amp;#250;til de los ordenadores para disminuir el desperdicio provocado por el exceso de consumo de materias primas. Tambi&amp;#233;n pretende facilitar el descubrimiento y la adopci&amp;#243;n del entorno GNU/Linux. La nueva versi&amp;#243;n de Emmabunt&amp;#252;s Debian Edition 1.02, basada en Debian 8.7 y con un entorno de escritorio XFCE, siempre incluye el software de m&amp;#225;s de 60, y ahora utiliza Lilo un motor de b&amp;#250;squeda que financia proyectos sociales y medioambientales, y permite la instalaci&amp;#243;n de nuevas m&amp;#225;quinas a trav&amp;#233;s de UEFI soporte para 64 bits.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-05-04T20:59:00+00:00</dc:date>
+<dc:subject>portada</dc:subject>
+<slash:section>debian</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,3,3,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/05/03/1118200&amp;from=rss">
+<title>Las novedades de Linux 4.11</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/05/03/1118200&amp;from=rss</link>
+<description>Almorca nos cuenta: &amp;#171;Ya se ha anunciado la versi&amp;#243;n 4.11 de Linux y D'Oh! nos explica las novedades. Esta versi&amp;#243;n a&amp;#241;ade soporte para cambiar el planificador de E/S en vivo en la capa de bloques multiqueue, soporte de journalling en la implementaci&amp;#243;n RAID5 MD que permite cerrar el "write hole", una implementaci&amp;#243;n de swap m&amp;#225;s escalable para el swap ubicado in SSD, una nueva llamada al sistema que resuelve deficiencias de la actual interfaz stat(), una nueva herramienta perf ftrace que act&amp;#250;a como un frontend para la interfaz ftrace, soporte para dispositivos de almacenamiento que siguen la especificaci&amp;#243;n OPAL, soporte para el protocolo Shared Memory Communications-RDMA definido en el RFC7609 y b&amp;#250;feres persistentes para la consola VGA. Tambi&amp;#233;n se han incluido driver nuevos y muchas otras mejoras y peque&amp;#241;os cambios. La explicaci&amp;#243;n ampliada de las novedades la pod&amp;#233;is consultar en el blog D'Oh!.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-05-03T09:37:00+00:00</dc:date>
+<dc:subject>kernel linux</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,1,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss">
+<title>Ubuntu abandona Unity para volver a Gnome</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/04/05/2241220&amp;from=rss</link>
+<description>DonkeyMCP nos cuenta: &amp;#171;En un giro inesperado de acontecimientos, Canonical ha decidido abandonar Unity junto a su plan de convergencia para volver a Gnome y centrarse en el 'IoT' y en 'la nube', seg&amp;#250;n ha anunciado Mark Shuttlewort.&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-04-05T20:58:00+00:00</dc:date>
+<dc:subject>gnome</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,42,6,4,1,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss">
+<title>Microsoft cierra el portal CodePlex</title>
+<link>http://barrapunto.com/article.pl?sid=17/04/02/2228200&amp;from=rss</link>
+<description>Microsoft ha anunciado que cerrar&amp;#225; CodePlex el 15 de diciembre de 2017 (anuncio de Microsoft aqu&amp;#237;). CodePlex es un portal creado por Microsoft en 2006 (visto en Barrapunto) para proporcionar hospedaje gratuito y servicios de control de versiones Mercurial, Subversion y Git a proyectos software bajo licencias open source. Microsoft recomienda a los usuarios migrar sus proyectos a otros portales, especialmente a GitHub. M&amp;#225;s opiniones en Hacker News.</description>
+<dc:creator>jperex (posted by nettizen)</dc:creator>
+<dc:date>2017-04-02T22:05:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>11</slash:comments>
+<slash:hit_parade>11,10,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/04/02/2227211&amp;from=rss">
+<title>Unix Research 8, 9 y 10, gratis bajo licencia no comercial</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/04/02/2227211&amp;from=rss</link>
+<description>La compa&amp;#241;&amp;#237;a Nokia Bell Labs (que engloba actualmente a los antiguos laboratorios de Alcatel, Lucent y Bell) ha emitido un comunicado en el que promete que no ejercer&amp;#225; sus derechos de copyright sobre cualquier copia, distribuci&amp;#243;n, estudio o trabajo derivado de las versiones Research Unix 8, 9 y 10, siempre que se distribuyan mediante procedimientos "no comerciales". Aunque el anuncio dista mucho de ser una licencia opensource, el movimiento de Nokia permitir&amp;#225; preservar y estudiar el c&amp;#243;digo de estos tres Unix hist&amp;#243;ricos. Nokia no proporcionar&amp;#225; ning&amp;#250;n tipo de soporte: si queremos acceder al c&amp;#243;digo fuente de estos Unix deberemos utilizar los servidores de The Unix Heritage Society (TUHS), que conseguieron estas tres ediciones Research gracias al trabajo de voluntarios que las rescataron de diversos departamentos inform&amp;#225;ticos y de colecciones particulares. Pr&amp;#243;ximamente, se incluir&amp;#225;n tambi&amp;#233;n en el repositorio git de Diomidis Spinellis, que prentende consolidar la historia de Unix en un repositorio git &amp;#250;nico (visto en Barrapunto). Mientras tanto, podemos tambi&amp;#233;n echar un vistazo a las manpages de la Research 8. Caldera realiz&amp;#243; un anuncio similar en 2002 permitiendo la distribuci&amp;#243;n del c&amp;#243;digo fuente de las ediciones hist&amp;#243;ricas de Unix hasta la edici&amp;#243;n 7. M&amp;#225;s informaci&amp;#243;n sobre el anuncio de Nokia en The Register, en el blog de Spinellis y en un hilo en la lista de correos de TUHS. M&amp;#225;s opiniones en Hacker News.</description>
+<dc:creator>jperex (posted by nettizen)</dc:creator>
+<dc:date>2017-04-02T20:45:00+00:00</dc:date>
+<dc:subject>unix</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,4,0,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=17/04/01/1427230&amp;from=rss">
+<title>Slashdot se ha vuelto color 'Butano' Barrapunto</title>
+<link>http://barrapunto.com/article.pl?sid=17/04/01/1427230&amp;from=rss</link>
+<description>Un pobrecito hablador nos cuenta: &amp;#171;Slashdot se ha vuelto color Barrapunto 'Butano' por el April's Fool...&amp;#187; &amp;#191;Qui&amp;#233;n dijo que 'Barrapunto ya no es lo que era'? &amp;#161;Hasta Slashdot celebra la atemporalidad de bp! :p</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-04-01T12:45:00+00:00</dc:date>
+<dc:subject>slashdot</dc:subject>
+<slash:section>mainpage</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,1,0,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://softlibre.barrapunto.com/article.pl?sid=17/03/12/1017200&amp;from=rss">
+<title>Migraci&#243;n a software libre del Ayuntamiento de Madrid</title>
+<link>http://softlibre.barrapunto.com/article.pl?sid=17/03/12/1017200&amp;from=rss</link>
+<description>Tras el &amp;#233;xito de los primeros Presupuestos participativos que celebr&amp;#243; Madrid el a&amp;#241;o pasado este a&amp;#241;o se vuelve a repetir la experiencia. Desde hoy ya es posible votar en la primera ronda que servir&amp;#225; para hacer una primera criba de proyectos antes de que el Ayuntamiento pase a evaluar el coste y la viabilidad de los mismos. Dentro de los proyectos que afectan a toda la ciudad se ha presentado un proyecto de migraci&amp;#243;n a software libre. Si este proyecto recaba los votos necesarios en 2018 se realizar&amp;#237;a en Madrid una auditor&amp;#237;a que marcase el plan de migraci&amp;#243;n del ayuntamiento a software libre. Si est&amp;#225;s empadronado en Madrid entra y ap&amp;#243;yalo.</description>
+<dc:creator>Almorca (posted by mig21)</dc:creator>
+<dc:date>2017-03-12T10:34:00+00:00</dc:date>
+<dc:subject>administraciones</dc:subject>
+<slash:section>softlibre</slash:section>
+<slash:comments>184</slash:comments>
+<slash:hit_parade>184,178,19,15,0,0,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://barrapunto.com/article.pl?sid=17/03/03/0950231&amp;from=rss">
+<title>Un comando mal escrito caus&#243; la ca&#237;da del servicio Amazon S3</title>
+<link>http://barrapunto.com/article.pl?sid=17/03/03/0950231&amp;from=rss</link>
+<description>Plataformas como Quora, Imgur y Giphy. Servicios y aplicaciones como Slack, Twitch y Airbnb. Webs de noticias como Business Insider y Gizmodo estuvieron ca&amp;#237;das durante horas el martes (y en especial sus im&amp;#225;genes, alojadas en los servidores de Amazon S3). &amp;#191;El motivo? Un simple typo. La nube de Amazon (Amazon Web Services) es una parte importante de la columna vertebral de Internet. Si falla, buena parte de Internet se cae. As&amp;#237; de fr&amp;#225;gil es la red... Hoy Amazon ha revelado la causa de la ca&amp;#237;da del martes. Por supuesto, carga toda la culpa a un empleado (&amp;#191;o exempleado?) que escribi&amp;#243; mal un comando. Toda la historia y los detalles t&amp;#233;cnicos en C&amp;#243;mo un comando mal escrito por un ingeniero de Amazon dej&amp;#243; buena parte de Internet inaccesible durante horas y en ingl&amp;#233;s en How a typo took down S3, the backbone of the internet. Informaci&amp;#243;n adicional en la nota oficial de Amazon: Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region</description>
+<dc:creator>Wayfarer</dc:creator>
+<dc:date>2017-03-03T10:09:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>Internet-se-rompe</slash:department>
+<slash:section>mainpage</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,10,3,2,1,0</slash:hit_parade>
+</item>
+
+<item rdf:about="http://ciberderechos.barrapunto.com/article.pl?sid=17/02/17/1810239&amp;from=rss">
+<title>Apple declara la guerra a las reparaciones dom&#233;sticas en EEUU</title>
+<link>http://ciberderechos.barrapunto.com/article.pl?sid=17/02/17/1810239&amp;from=rss</link>
+<description>pobrecito hablador nos cuenta: &amp;#171;Si es de Apple no lo toques. Apple declara la guerra a las reparaciones dom&amp;#233;sticas en EEUU. En Nebraska, Estados Unidos, est&amp;#225;n impulsando una ley que reconozca el derecho a sus ciudadanos a reparar sus propios dispositivos electr&amp;#243;nicos estropeados y esto a Apple no le ha gustado un pelo ya que esto obligar&amp;#237;a a la compa&amp;#241;&amp;#237;a a facilitar los manuales de servicio con cualquier usuario. Como muchas otras empresas del sector, fabricantes de tractores incluidos, Apple est&amp;#225; muy preocupada porque esta tendencia legislativa se est&amp;#225; replicando en otros estados como Minnesota, Nueva York, Massachusetts, Kansas y Wyoming. As&amp;#237; que la maquinaria legal y publicitaria se ha puesto en marcha. &amp;#191;Y t&amp;#250;, ya te has matriculado en cursos ABCD para reparar tus propios cacharros?&amp;#187;</description>
+<dc:creator>nettizen</dc:creator>
+<dc:date>2017-02-17T16:26:00+00:00</dc:date>
+<dc:subject>patentes</dc:subject>
+<slash:section>ciberderechos</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,59,10,6,2,0,0</slash:hit_parade>
+</item>
+
+<textinput rdf:about="http://barrapunto.com/search.pl">
+<title>Search Barrapunto</title>
+<description>Search Barrapunto stories</description>
+<name>query</name>
+<link>http://barrapunto.com/search.pl</link>
+</textinput>
+
+</rdf:RDF>
